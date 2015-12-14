@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+<<<<<<< HEAD
+      location = "self:YQDBModel.xcodeproj">
+=======
+      location = "self:YQFMDBHelper.xcodeproj">
+>>>>>>> af15e5ae785605a9bbf9a1e8a613c0c30c80648d
+   </FileRef>
+</Workspace>
